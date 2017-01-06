@@ -6,9 +6,9 @@ We currently support Python 3.3.6, Python 3.4.3, and Python 3.5.0.
 
 ## How do I install these formulæ?
 
-`brew install zoidbergwill/python/<formula>`
+`brew install code-kitchen/python/<formula>`
 
-Or `brew tap zoidbergwill/python` and then `brew install <formula>`.
+Or `brew tap code-kitchen/python` and then `brew install <formula>`.
 
 ## Usage
 
